@@ -1,2 +1,2 @@
 def functionpoche():
-    return "Patate"
+    return "Pomme"
